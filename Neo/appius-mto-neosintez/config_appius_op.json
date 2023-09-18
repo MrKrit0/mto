@@ -1,0 +1,18 @@
+{
+  "url": "http://operation.irkutskoil.ru/",
+  "logs_path": "c://python/logs/",
+  "root_class_id": "2fe9b118-3c75-ed11-9152-005056b6948b",
+  "level_one_class_id": "",
+  "level_one_name_attribute_id": "",
+  "level_two_class_id": "c25069fa-5029-eb11-9110-005056b6948b",
+  "level_two_column_name": "Подобъект",
+  "item_class_id": "2a5df34d-f91a-e811-810c-9ec54093bb77",
+  "object_attribute_id": "1f99882d-e232-ea11-9100-005056b6e70e",
+  "key_attribute_id": "f047c286-f31a-e811-810c-9ec54093bb77",
+  "key_column_name": "Обозначение",
+  "config_attribute_id": "723bba30-4175-ed11-9152-005056b6948b",
+  "bin_item_id": "",
+  "files_directory": "//irkoil/dfs/WorkDATA/1C_OBMEN/Неосинтез/Аппиус/",
+  "attributes_file": "attributes_appiusoperation.xlsx",
+  "auth_data_file": "auth_data.txt"
+  }
